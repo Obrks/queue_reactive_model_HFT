@@ -71,6 +71,7 @@ This project can be used to:
 * compare low-activity and high-activity regimes,
 * visualize spread dynamics,
 * experiment with microstructure-inspired intensity functions.
+* Can be extended for trading strategies backtesting...
 
 ## Notes
 
