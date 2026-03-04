@@ -73,17 +73,8 @@ This project can be used to:
 * experiment with microstructure-inspired intensity functions.
 * Can be extended for trading strategies backtesting...
 
-## Notes
+## Disclaimer and Notes
 
 This is a research / educational project rather than a production-ready trading engine.
 The model is intentionally stylized and designed to remain interpretable and easy to modify.
 
-## Possible extensions
-
-Some natural next steps would be:
-
-* empirical calibration of the intensities,
-* richer spread dynamics,
-* Hawkes-process-based order flow,
-* neural point process extensions,
-* more advanced order book visualizations.
