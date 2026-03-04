@@ -1,7 +1,5 @@
-# queue_reactive_model_HFT
-Queue-reactive limit order book simulation with state-dependent intensities, market order dynamics, and endogenous price formation. Application of the paper : Simulating and analyzing order book data: The queue-reactive model Huang,  Lehalle and Rosenbaum
-
 # Queue-Reactive Limit Order Book Simulation
+Queue-reactive limit order book simulation with state-dependent intensities, market order dynamics, and endogenous price formation. Application of the paper : Simulating and analyzing order book data: The queue-reactive model Huang,  Lehalle and Rosenbaum
 
 This repository contains a small Python project for simulating a **queue-reactive limit order book (LOB)** with **state-dependent intensities**, **market order dynamics**, and **endogenous price moves**.
 
